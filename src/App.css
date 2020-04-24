@@ -1,18 +1,15 @@
 
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
+.stopwatch {text-align: center }
 
-.App-link {
-  color: #61dafb;
+.stopwatch-timer {
+  font-size: 76px;
+  font-weight: 100;
+  line-height: 160px;
+  margin: 0;
+  border: solid #c3cfd0;
+  border-width: 1px 0;
+  background-color: white;
 }
 
 
